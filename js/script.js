@@ -50,8 +50,6 @@ function atualizarListaAlunos() {
 }
 
 
-
-
 let contadorId = 1; // Inicializa o ID em 1
 const productForm = document.getElementById("productForm");
 const productTableBody = document.getElementById("productTableBody");
